@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="YonyouCloud-Snapshot" />
+      <option name="name" value="YonyouCloud-Snapshot" />
+      <option name="url" value="http://maven.yonyou.com/nexus/repository/YonyouCloud-Snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun" />
+      <option name="name" value="aliyun" />
+      <option name="url" value="https://maven.aliyun.com/repository/central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_3rd_release" />
+      <option name="name" value="nexus_3rd" />
+      <option name="url" value="http://maven.yonyou.com/nexus/repository/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_3rd" />
+      <option name="name" value="nexus_3rd" />
+      <option name="url" value="http://maven.yonyou.com/nexus/repository/Nuxeo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_uap_stagings" />
+      <option name="name" value="nexus_uap_stagings" />
+      <option name="url" value="http://maven.yonyou.com/nexus/repository/iUAP-Stagings/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_taxcloud_release" />
+      <option name="name" value="nexus_taxcloud_release" />
+      <option name="url" value="http://maven.yonyou.com/nexus/repository/TaxCloud-Release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="YonyouCloud-Release" />
+      <option name="name" value="YonyouCloud-Release" />
+      <option name="url" value="http://maven.yonyou.com/nexus/repository/YonyouCloud-Release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="thirdparty" />
+      <option name="name" value="thirdparty" />
+      <option name="url" value="http://maven.yonyou.com/nexus/repository/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_uap_snapshot" />
+      <option name="name" value="nexus_uap_snapshot" />
+      <option name="url" value="http://maven.yonyou.com/nexus/repository/iUAP-Snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_uap_release" />
+      <option name="name" value="nexus_uap_release" />
+      <option name="url" value="http://maven.yonyou.com/nexus/repository/iUAP/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_taxcloud_snapshot" />
+      <option name="name" value="nexus_taxcloud_snapshot" />
+      <option name="url" value="http://maven.yonyou.com/nexus/repository/TaxCloud-Snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-spring" />
+      <option name="name" value="aliyun-spring" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss-3rd" />
+      <option name="name" value="jboss-3rd" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/thirdparty-releases/" />
+    </remote-repository>
+  </component>
+</project>
